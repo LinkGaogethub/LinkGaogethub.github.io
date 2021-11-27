@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://LinkGaogethub.github.io</id>
+    <id>https://LinkGaogethub.github.io</id>
     <title>Link 小站</title>
-    <updated>2021-11-27T14:33:51.643Z</updated>
+    <updated>2021-11-27T14:35:51.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://LinkGaogethub.github.io"/>
-    <link rel="self" href="http://LinkGaogethub.github.io/atom.xml"/>
+    <link rel="alternate" href="https://LinkGaogethub.github.io"/>
+    <link rel="self" href="https://LinkGaogethub.github.io/atom.xml"/>
     <subtitle>BIM  相关站点</subtitle>
-    <logo>http://LinkGaogethub.github.io/images/avatar.png</logo>
-    <icon>http://LinkGaogethub.github.io/favicon.ico</icon>
+    <logo>https://LinkGaogethub.github.io/images/avatar.png</logo>
+    <icon>https://LinkGaogethub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Link 小站</rights>
     <entry>
         <title type="html"><![CDATA[技术胖的课程笔记]]></title>
-        <id>http://LinkGaogethub.github.io/post/ji-zhu-pang-de-ke-cheng-bi-ji/</id>
-        <link href="http://LinkGaogethub.github.io/post/ji-zhu-pang-de-ke-cheng-bi-ji/">
+        <id>https://LinkGaogethub.github.io/post/ji-zhu-pang-de-ke-cheng-bi-ji/</id>
+        <link href="https://LinkGaogethub.github.io/post/ji-zhu-pang-de-ke-cheng-bi-ji/">
         </link>
         <updated>2021-10-28T14:20:03.000Z</updated>
         <content type="html"><![CDATA[<p>https://jspang.com/detailed?id=56</p>
@@ -134,8 +134,8 @@ export default ADDListItem;
     </entry>
     <entry>
         <title type="html"><![CDATA[React 笔记]]></title>
-        <id>http://LinkGaogethub.github.io/post/react-bi-ji/</id>
-        <link href="http://LinkGaogethub.github.io/post/react-bi-ji/">
+        <id>https://LinkGaogethub.github.io/post/react-bi-ji/</id>
+        <link href="https://LinkGaogethub.github.io/post/react-bi-ji/">
         </link>
         <updated>2021-10-21T13:15:34.000Z</updated>
         <content type="html"><![CDATA[<p>安装 命令行<br>
@@ -190,8 +190,8 @@ ReactDOM.render(element2,document.getElementById('root'))
     </entry>
     <entry>
         <title type="html"><![CDATA[ASP.NET Core 入门新手]]></title>
-        <id>http://LinkGaogethub.github.io/post/aspnet-core-ru-men-xin-shou/</id>
-        <link href="http://LinkGaogethub.github.io/post/aspnet-core-ru-men-xin-shou/">
+        <id>https://LinkGaogethub.github.io/post/aspnet-core-ru-men-xin-shou/</id>
+        <link href="https://LinkGaogethub.github.io/post/aspnet-core-ru-men-xin-shou/">
         </link>
         <updated>2021-10-20T13:30:46.000Z</updated>
         <content type="html"><![CDATA[<p>f'g</p>
@@ -199,8 +199,8 @@ ReactDOM.render(element2,document.getElementById('root'))
     </entry>
     <entry>
         <title type="html"><![CDATA[Revit 插件]]></title>
-        <id>http://LinkGaogethub.github.io/post/revit-cha-jian/</id>
-        <link href="http://LinkGaogethub.github.io/post/revit-cha-jian/">
+        <id>https://LinkGaogethub.github.io/post/revit-cha-jian/</id>
+        <link href="https://LinkGaogethub.github.io/post/revit-cha-jian/">
         </link>
         <updated>2021-10-13T11:48:11.000Z</updated>
         <content type="html"><![CDATA[<p>COINS Auto-Section Box 快速剖面框<br>
@@ -218,8 +218,8 @@ ReactDOM.render(element2,document.getElementById('root'))
     </entry>
     <entry>
         <title type="html"><![CDATA[心电心]]></title>
-        <id>http://LinkGaogethub.github.io/post/tesst/</id>
-        <link href="http://LinkGaogethub.github.io/post/tesst/">
+        <id>https://LinkGaogethub.github.io/post/tesst/</id>
+        <link href="https://LinkGaogethub.github.io/post/tesst/">
         </link>
         <updated>2021-10-04T05:01:54.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
