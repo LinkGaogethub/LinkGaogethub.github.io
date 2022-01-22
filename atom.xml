@@ -2,14 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LinkGaogethub.github.io</id>
     <title>Link 小站</title>
-    <updated>2021-12-09T13:43:34.006Z</updated>
+    <updated>2022-01-22T15:13:35.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LinkGaogethub.github.io"/>
     <link rel="self" href="https://LinkGaogethub.github.io/atom.xml"/>
     <subtitle>BIM  相关站点</subtitle>
     <logo>https://LinkGaogethub.github.io/images/avatar.png</logo>
     <icon>https://LinkGaogethub.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Link 小站</rights>
+    <rights>All rights reserved 2022, Link 小站</rights>
+    <entry>
+        <title type="html"><![CDATA[revit button]]></title>
+        <id>https://LinkGaogethub.github.io/post/revit-button/</id>
+        <link href="https://LinkGaogethub.github.io/post/revit-button/">
+        </link>
+        <updated>2022-01-22T15:05:22.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_43026206/article/details/107682140?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=2">其他参考</a></p>
+<pre><code>  
+ </code></pre>
+ <pre><code>  
+ pushButton.AvailabilityClassName = "UIButtonDemo.CommandAvailability";
+ </code></pre>
+<pre><code>  
+class CommandAvailability : IExternalCommandAvailability
+    {
+        private static bool _enablestatic=true;
+        public bool IsCommandAvailable(UIApplication applicationData, CategorySet selectedCategories)
+        {
+            HelloWorldDemo.AAAHAND += AAAHHH;
+        
+            bool AAAHHH(bool outEable)
+            {
+               return _enablestatic = outEable;
+            }
+            return _enablestatic;
+        }
+    }
+    </code></pre>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股票]]></title>
+        <id>https://LinkGaogethub.github.io/post/gu-piao/</id>
+        <link href="https://LinkGaogethub.github.io/post/gu-piao/">
+        </link>
+        <updated>2021-12-09T13:47:41.000Z</updated>
+        <content type="html"><![CDATA[<p>股票</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术胖的课程笔记]]></title>
         <id>https://LinkGaogethub.github.io/post/ji-zhu-pang-de-ke-cheng-bi-ji/</id>
